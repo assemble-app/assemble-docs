@@ -11,6 +11,9 @@ Typically, Live HTML will replace divs in a when the list changes. Utilizing the
 
 The below example will keep all events in view even though one event is kept in memory. Because after each event the ID is unique, Live HTML will prepend the container to the list.
 
+[Quick view](https://www.assemble.app/environment/3fbabc8b-109c-4568-a232-e9ed5240c7b0/quick_view/) for details and to fork. 
+
+
 <iframe height="400" width="100%" src="https://www.assemble.app/environment/3fbabc8b-109c-4568-a232-e9ed5240c7b0/view/?iframe=true" title="Infinite DOM"></iframe>
 
 ```rust

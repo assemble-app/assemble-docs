@@ -71,6 +71,9 @@ Content can be built up using normal Rust programming in your render method. See
 
 Combining DOM events, stateful views and dynamic content, we can create an app which updates based on a click.
 
+[Quick view](https://www.assemble.app/environment/ce0bab0a-56cc-4640-83b3-ee91401b4f5f/quick_view/) for details and to fork. 
+
+
 <iframe height="200" width="100%" src="https://www.assemble.app/environment/ce0bab0a-56cc-4640-83b3-ee91401b4f5f/view/?iframe=true" title="DOM event click"></iframe>
 
 

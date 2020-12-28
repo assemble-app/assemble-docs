@@ -22,6 +22,7 @@ function Home() {
           <h1 className="hero__title">
            {siteConfig.title}</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
+          <p className="hero-info">Here you will find a collection of tutorials, most with demos.</p>
           <div className={styles.buttons}>
             <Link
               className={clsx(

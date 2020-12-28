@@ -70,6 +70,9 @@ let current_count = counter_get("my-bucket", "my-counter")?
 
 Lets continue building our example from the previous section by storing events in the database after every click and when the View starts, scanning the database and loading the most recent ones.
 
+[Quick view](https://www.assemble.app/environment/8bd8ffc6-85cd-4466-8320-5cd56d94b1aa/quick_view/) for details and to fork. 
+
+
 <iframe height="400" width="100%" src="https://www.assemble.app/environment/8bd8ffc6-85cd-4466-8320-5cd56d94b1aa/view/?iframe=true" title="Database"></iframe>
 
 ```rust

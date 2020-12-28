@@ -48,6 +48,11 @@ impl View for ViewHandler {
 
 Below the app will keep a list of who is online. As other tabs open the environment, the list of online users will automatically update.
 
+Open in [multiple tabs](https://www.assemble.app/environment/fcdc6e45-4e7b-4ac3-8d5e-07e8eaf31c49/view/) to see users enter and leave. 
+
+[Quick view](https://www.assemble.app/environment/fcdc6e45-4e7b-4ac3-8d5e-07e8eaf31c49/quick_view/) for details and to fork. 
+
+
 <iframe height="400" width="100%" src="https://www.assemble.app/environment/fcdc6e45-4e7b-4ac3-8d5e-07e8eaf31c49/view/?iframe=true" title="Presence"></iframe>
 
 ```rust

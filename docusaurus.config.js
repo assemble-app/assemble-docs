@@ -32,19 +32,19 @@ module.exports = {
           label: 'Docs',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://www.assemble.app',
-          label: 'Assemble main site',
-          position: 'right',
-        },
+        // {to: 'blog', label: 'Blog', position: 'left'},
+        // {
+        //   href: 'https://www.assemble.app',
+        //   label: 'Assemble main site',
+        //   position: 'right',
+        // },
       ]
     },
     footer: {
       style: 'dark',
       links: [
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Wouthern California Software Labs, LLC.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Southern California Software Labs, LLC.`,
     },
   },
   presets: [

@@ -32,3 +32,8 @@
 .navbar__logo {
   border: 2px white solid; border-radius: .25rem;
 }
+.hero-info {
+max-width: 440px;
+margin: 0 auto;
+padding-bottom: 3rem;
+}

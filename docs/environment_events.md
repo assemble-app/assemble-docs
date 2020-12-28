@@ -67,6 +67,9 @@ impl View for ViewHandler {
 
 Combining local DOM events with PubSub events lets you build collaborative allications easily. This example uses a double-ended queue to keep a list of the latest 10 events in the environment.
 
+[Quick view](https://www.assemble.app/environment/d7f7bd7a-1a82-40d3-ac0a-5a6630966d40/quick_view/) for details and to fork. 
+
+
 <iframe height="400" width="100%" src="https://www.assemble.app/environment/d7f7bd7a-1a82-40d3-ac0a-5a6630966d40/view/?iframe=true" title="Environment Events"></iframe>
 
 ```rust

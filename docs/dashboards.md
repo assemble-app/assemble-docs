@@ -9,6 +9,9 @@ Combining views into one is as simple as embedding an iframe.
 
 The `?iframe=true` prevents the standard header from appearing.
 
+[Quick view](https://www.assemble.app/environment/501651cc-0f12-4272-80a9-9d3d92faa3de/quick_view/) for details and to fork. 
+
+
 <iframe width="100%" height="200px" src="https://www.assemble.app/environment/501651cc-0f12-4272-80a9-9d3d92faa3de/view/?iframe=true"></iframe>
 
 ```rust
